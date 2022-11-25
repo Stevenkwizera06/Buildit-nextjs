@@ -14,7 +14,7 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## Learn More
 
-You can check out [my  GitHub repository](https://github.com/Stevenkwizera06/Buildit-nextjs) - your feedback and contributions are welcome!
+You can check out [My GitHub repository](https://github.com/Stevenkwizera06/Buildit-nextjs) - your feedback and contributions are welcome!
 
 ## Deploy on netlfy
 
