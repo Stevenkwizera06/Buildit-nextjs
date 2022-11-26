@@ -1,9 +1,20 @@
 
+import Footer from '../components/footer';
+import Home from '../components/HomePage';
+import Navbar from '../components/navbar';
 
-export default function Home() {
+
+function buildit() {
   return (
-    <h1 className="text-3xl font-bold underline text-red-800">
-      Hello world!
-    </h1>
-  )
+    <>
+      <Navbar />
+      <Home />
+      <Footer />
+    </>
+  );
 }
+
+export default buildit;
+
+
+
