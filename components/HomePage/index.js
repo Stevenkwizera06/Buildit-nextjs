@@ -124,7 +124,6 @@ function Home() {
               alt="building shot below"
             />
           </picture>
-
           <div className="max-w-[540px] ml-20 -mt-10">
             <div className="flex flex-col gap-5">
               <h4 className="text-[#5BCCDE] font-medium leading-8">About us</h4>
