@@ -1,7 +1,7 @@
 import Link from "next/link";
 export default function Navbar() {
   return (
-    <div className='flex justify-between items-center font-medium  text-primary_text pt-16 py-[60px] w-[1200px] left-0 right-0 mx-auto absolute z-[1000]'>
+    <div className='flex justify-between items-center font-medium  text-primary_text pt-16  w-120 left-0 right-0 mx-auto absolute z-[1000]'>
     <Link href='/'>
       
         <picture>
@@ -9,7 +9,7 @@ export default function Navbar() {
         </picture>
       
     </Link>
-    <nav className='flex gap-[50px]'>
+    <nav className='flex gap-16'>
       <Link href='/about'>
         About
       </Link>
@@ -25,7 +25,7 @@ export default function Navbar() {
     </nav>
     <button
       type='button'
-      className='px-[25px] rounded-md py-[10px] font-bold text-white bg-[#4397A4]'
+      className='px-8 rounded-md py-4 font-bold text-white bg-dark-green'
     >
       Need a project?
     </button>
